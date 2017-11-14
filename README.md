@@ -1,5 +1,7 @@
 # secure_loginPage_from_rateLimit
 
+![Rate Limit](https://raw.githubusercontent.com/ihrifat2/secure_loginPage_from_rateLimit/gh-pages/rate_limit.gif)
+
 ## Install
 
 [XAMPP](https://www.apachefriends.org/index.html)
