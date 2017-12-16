@@ -1,6 +1,6 @@
 # secure_loginPage_from_rateLimit
 
-![Rate Limit](https://raw.githubusercontent.com/ihrifat2/secure_loginPage_from_rateLimit/gh-pages/rate_limit.gif)
+![Rate Limit](https://raw.githubusercontent.com/ihrifat2/secure_loginPage_from_rateLimit/master/rate_limit.gif)
 
 ## Requirement
 
