@@ -2,12 +2,11 @@
 
 ![Rate Limit](https://raw.githubusercontent.com/ihrifat2/secure_loginPage_from_rateLimit/gh-pages/rate_limit.gif)
 
-## Install
+## Requirement
 
-[XAMPP](https://www.apachefriends.org/index.html)
-
-1. Add rate_limit.sql in phpmyadmin.
-2. Paste all files in htdocs folder.
+1. Install [XAMPP](https://www.apachefriends.org/index.html) or any
+2. Add rate_limit.sql in your mysql database.
+3. Paste all files in htdocs folder.
 
 
 ## Feature
